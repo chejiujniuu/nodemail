@@ -96,7 +96,7 @@ async function sendEmails(contacts) {
     secure: true,
     auth: {
       user: "chethanraj509@gmail.com",
-      pass: "fmgz zpdd eyvw jiqc", // Gmail App Password
+      pass: "", // Gmail App Password
     },
   });
 
